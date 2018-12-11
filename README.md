@@ -11,3 +11,4 @@ Funny and incredible things that can be useful sometime.
 * [Only CSS: Shooting Star](https://codepen.io/YusukeNakaya/pen/XyOaBj)
 * [Hover Me Pill](https://codepen.io/joshuaward/pen/aQXLPa)
 * [Procedural Landscape](https://codepen.io/AzazelN28/pen/dQgaMx)
+* [Amazing sketchJs animation](https://www.codeply.com/go/376lwMVLOd)
